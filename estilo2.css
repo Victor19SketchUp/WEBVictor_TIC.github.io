@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(195, 188, 236);
+    color: white;
+    text-align: center;
+}
+a{
+    text-decoration:none;
+    color:rgb(0, 0, 0);
+    font-size:20px;
+}
+nav li{
+    list-style:none;
+    display:inline-block;
+    padding:4px 70px;
+    text-align:center;
+    background-color:gray;
+    text-align: center;
+}
+ul{
+    padding:0;
+}
+a:hover{
+    color:white;
+}
+nav{
+    color:silver;
+    font-size:20px;
+}
+nav:hover{
+    cursor:default;
+}
+.normal h2{
+    color: red;
+}
+.normal h3 {
+    color: black;
+}
+#contenido{
+    width: 750px;
+    margin:0 auto;
+}
+.cuadros{
+    width:750px;
+    border:1px lightgray solid;
+    border-radius:3px;
+    background-color:rgb(241, 190, 239);
+    text-align:center;
+    padding:5px 5px 22px 5px;
+    box-shadow:5px 5px 10px gray;
+ }
